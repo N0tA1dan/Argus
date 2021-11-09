@@ -1,16 +1,16 @@
 # Argus
 Welcome to Argus, a OSINT tool coded in python.
 
-### Disclaimer
+# Disclaimer
 
 I Am not responsible what you do with the information that is given to you by my tool. This tool was built purely for education purposes only
 
-### What can Argus do?
+# What can Argus do?
 
 Argus can pull various information such as addresses, names, phone information, and much more from a given command.
 This OSINT tool is still being developed as of its publish. So be aware there are some bugs that can come from this tool.
 
-### Why Argus?
+# Why Argus?
 
 Argus Panoptes in greek mythology is a creature with 100 eyes. Panoptes means all seeing.
 
