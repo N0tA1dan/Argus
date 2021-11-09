@@ -5,6 +5,7 @@ def phonelookup(number):
   print("Data Base Results For", number + "\n")
   print("https://thatsthem.com/phone/"+number)
   print("https://www.fastpeoplesearch.com/"+number)
+  print("https://www.usphonebook.com/"+number)
 
 def namelookup(fname, lname, city, state):
   print("-----------------------------------")
