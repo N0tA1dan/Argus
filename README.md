@@ -22,11 +22,9 @@ This is just a fun project because i was bored.
 To get started open up a Command Line and type the following
 
 ```
-cd src
-```
+~ cd src
 
-```
-pip3 install -r requirements.txt
+~ pip3 install -r requirements.txt
 ```
 
 After installing the proper requirements you can run the file by typing the following
