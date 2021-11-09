@@ -16,3 +16,17 @@ Argus Panoptes in greek mythology is a creature with 100 eyes. Panoptes means al
 
 I made the tool strictly for education and OSINT purposes. 
 This is just a fun project because i was bored.
+
+# Usage
+
+To get started open up a Command Line and type the following
+
+```
+pip install -r requirements.txt
+```
+
+After installing the proper requirements you can run the file by typing the following
+
+```
+python argus.py
+```
