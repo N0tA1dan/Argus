@@ -33,3 +33,21 @@ After installing the proper requirements you can run the file by typing the foll
 ```
 python argus.py
 ```
+
+# Contact Us
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KryptonEncrypt) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=notaidan420@gmail.com&tf=cm)
+
+
+# Support Us 
+
+If you would like to support me you can [buy me a coffee.](https://www.buymeacoffee.com/notaidan)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/notaidan)
+
+
+# Extras
+
+If you would like to support my community please join my discord below.
+
+[![Discord Chat](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2AY6PDUFUN)
