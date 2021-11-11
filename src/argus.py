@@ -37,9 +37,6 @@ def emaillookup(email):
   print("https://www.google.com/search?q=site%3Ainstagram.com+intext%3A" + email)
   print("https://www.google.com/search?q=intext%3A" + email)
 
-def googledork():
-  
-
 
 
 print('''
