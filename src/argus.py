@@ -7,10 +7,13 @@ def phonelookup(number):
   print("https://www.fastpeoplesearch.com/"+number)
   print("https://www.usphonebook.com/"+number)
 
+
 def namelookup(fname, lname, city, state):
   print("-----------------------------------")
   print("Data Base Results For", fname, lname + "\n")
+
   print("https://thatsthem.com/name/"+fname + "-"+lname+"/"+city+"-"+state)
+
 
 def iplookup(ipaddress):
   print("-----------------------------------")
@@ -26,26 +29,30 @@ def iplookup(ipaddress):
   print("ISP:", ipsearch['isp'])
 
 def emaillookup(email):
-  print("-----------------------------------")
+  print("--------------------------")
   print("Results for", email + "\n")
   print("https://thatsthem.com/email/" + email)
+  print("\nhttps://www.google.com/search?q=site%3Atwitter.com+intext%3A" + email)
+  print("https://www.google.com/search?q=site%3Afacebook.com+intext%3A" + email)
+  print("https://www.google.com/search?q=site%3Ainstagram.com+intext%3A" + email)
+  print("https://www.google.com/search?q=intext%3A" + email)
+
+def googledork():
+  
 
 
 
 print('''
-....................../´¯/) 
-....................,/¯../ 
-.................../..../ 
-............./´¯/'...'/´¯¯`·¸ 
-........../'/.../..../......./¨¯\ 
-........('(...´...´.... ¯~/'...') 
-.........\.................'...../ 
-..........''...\.......... _.·´ 
-............\..............( 
-..............\.............\...
-
-Argus
-- Coded by NotAidan
+ * * * * * * * * * * * * * * * *
+*     _                         *
+*    / \   _ __ __ _ _   _ ___  *
+*   / _ \ | '__/ _` | | | / __| *
+*  / ___ \| | | (_| | |_| \__ \ *
+* /_/   \_\_|  \__, |\__,_|___/ *
+*              |___/            *
+* Argus                         *
+* Coded by NotAidan             *
+ * * * * * * * * * * * * * * * * 
 ''')
 
 print('''
@@ -54,6 +61,7 @@ print('''
     [2] Name Look Up - Finds information on a given Name
     [3] IP Look Up - Finds information on a given IP
     [4] Email Look Up - Finds information on given email
+    [5] Google dorker - Probably can find anything you type in
 ''')
 
 start = input("Please enter in a number: ")
