@@ -58,7 +58,6 @@ print('''
     [2] Name Look Up - Finds information on a given Name
     [3] IP Look Up - Finds information on a given IP
     [4] Email Look Up - Finds information on given email
-    [5] Google dorker - Probably can find anything you type in
 ''')
 
 start = input("Please enter in a number: ")
